@@ -4,4 +4,4 @@ This function sets user ShellFolders in registry. Use the csv in the repo to ens
 
 To run this without importing to your profile:
 Import-Module "PathToModule\Set-ShellFolders.Ps1"
-Set-ShellFolders -Path "PathToFile\Name.csv" -Verbose # Verbose will show you everything it's doing as it does it.
+Set-ShellFolders -Path "PathToFile\import.csv" -Verbose # Verbose will show you everything it's doing as it does it.
